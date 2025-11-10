@@ -1,7 +1,7 @@
 
   # Cook_Verse
 
-  This is a code bundle for Cook_Verse. The original project is available at https://www.figma.com/design/DXHV4vLWCyiMNqgbyudfgr/Cook_Verse.
+  This is a code bundle for Cook_Verse. The original project is available at GitHub
 
   ## Running the code
 
